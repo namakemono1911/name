@@ -1,0 +1,15 @@
+﻿2016/01/08 0:28:27 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\spicywolf\Desktop\ネームバトラー\00aefeeeeeeeeeee\CP11_20151009_01_.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "Debug\CP11_20151009_01_.unsuccessfulbuild" のタッチ タスクを実行しています。
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\spicywolf\desktop\ネームバトラー\00aefeeeeeeeeeee\main.cpp(52): warning C4101: 'numplayer' : ローカル変数は 1 度も使われていません。
+     1>c:\users\spicywolf\desktop\ネームバトラー\00aefeeeeeeeeeee\main.cpp(53): warning C4101: 'player' : ローカル変数は 1 度も使われていません。
+     1>c:\users\spicywolf\desktop\ネームバトラー\00aefeeeeeeeeeee\main.cpp(298): error C2065: 'BGM' : 定義されていない識別子です。
+     1>プロジェクト "C:\Users\spicywolf\Desktop\ネームバトラー\00aefeeeeeeeeeee\CP11_20151009_01_.vcxproj" (build ターゲット) のビルドが終了しました -- 失敗。
+
+ビルドに失敗しました。
+
+経過時間 00:00:00.81

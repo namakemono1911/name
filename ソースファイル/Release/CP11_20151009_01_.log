@@ -1,0 +1,26 @@
+﻿2016/01/31 1:26:35 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\spicywolf\OneDrive\授業内容\過去作品\01_ネームバトラー\00aefeeeeeeeeeee\CP11_20151009_01_.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Release\CP11_20151009_01_.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp(2521): warning C4101: 'next' : ローカル変数は 1 度も使われていません。
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\spicywolf\OneDrive\授業内容\過去作品\01_ネームバトラー\00aefeeeeeeeeeee\CP11_20151009_01_.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\CP11_20151009_01_.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\spicywolf\OneDrive\授業内容\過去作品\01_ネームバトラー\00aefeeeeeeeeeee\CP11_20151009_01_.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\spicywolf\OneDrive\授業内容\過去作品\01_ネームバトラー\00aefeeeeeeeeeee\CP11_20151009_01_.lib" /MACHINE:X86 Release\main.obj
+         コード生成しています。
+     1>c:\users\spicywolf\onedrive\授業内容\過去作品\01_ネームバトラー\00aefeeeeeeeeeee\main.cpp(130): warning C4700: 初期化されていないローカル変数 'titleBGM' が使用されます
+     1>c:\users\spicywolf\onedrive\授業内容\過去作品\01_ネームバトラー\00aefeeeeeeeeeee\main.cpp(143): warning C4700: 初期化されていないローカル変数 'makeBGM' が使用されます
+     1>c:\users\spicywolf\onedrive\授業内容\過去作品\01_ネームバトラー\00aefeeeeeeeeeee\main.cpp(175): warning C4700: 初期化されていないローカル変数 'battleBGM' が使用されます
+     1>c:\users\spicywolf\onedrive\授業内容\過去作品\01_ネームバトラー\00aefeeeeeeeeeee\main.cpp(183): warning C4700: 初期化されていないローカル変数 'loseBGM' が使用されます
+     1>c:\users\spicywolf\onedrive\授業内容\過去作品\01_ネームバトラー\00aefeeeeeeeeeee\main.cpp(199): warning C4700: 初期化されていないローカル変数 'winBGM' が使用されます
+         コード生成が終了しました。
+         CP11_20151009_01_.vcxproj -> C:\Users\spicywolf\OneDrive\授業内容\過去作品\01_ネームバトラー\00aefeeeeeeeeeee\CP11_20151009_01_.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\spicywolf\OneDrive\授業内容\過去作品\01_ネームバトラー\00aefeeeeeeeeeee\CP11_20151009_01_.exe;#1" /manifest Release\CP11_20151009_01_.exe.intermediate.manifest
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppCommon.targets(574,5): error MSB6006: "mt.exe" はコード 31 を伴って終了しました。
+     1>プロジェクト "C:\Users\spicywolf\OneDrive\授業内容\過去作品\01_ネームバトラー\00aefeeeeeeeeeee\CP11_20151009_01_.vcxproj" (build ターゲット) のビルドが終了しました -- 失敗。
+
+ビルドに失敗しました。
+
+経過時間 00:00:04.67
